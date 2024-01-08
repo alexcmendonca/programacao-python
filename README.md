@@ -26,5 +26,5 @@ Repositório compartilhado com aprendizado Python, uma das linguagem de programa
 
 
 ## 🔍Referências
-- [Alura](https://www.alura.com.br/)
+- [EBAC](https://ebaconline.com.br/)
 
