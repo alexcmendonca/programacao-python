@@ -1,4 +1,4 @@
-# Pipeline ETL utilizando a biblioteca Requests do Python e Integração com API do GitHub
+# Programação Python
 
 ## 💡Objetivos
 Repositório compartilhado com aprendizado Python, uma das linguagem de programação mais versáteis e acessíveis da área de analytics. Desenvolvimento adquirido para manuseio, de forma automatizada, de grandes quantidades de dados. Com esta ferramenta poderosa permite agilizar este trabalho de análise, integrar sistemas sistema e processar dados mais rapidamente e em diferentes formatos.
